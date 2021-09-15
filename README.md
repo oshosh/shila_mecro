@@ -1,6 +1,12 @@
 # shila_mecro
 
+UI 이미지
+
 ![image](https://user-images.githubusercontent.com/42954693/133355203-fc6607b4-172d-4e7a-b865-fcc8b1f703e9.png)
+
+동영상
+
+![Hnet-image (1)](https://user-images.githubusercontent.com/42954693/133356767-bc97b102-a266-468e-b1d4-2a1648ec36c8.gif)
 
  ## 신라호텔 (팔선) 예약 매크로
   - 별실 (셀비아 룸) 예약 가능
@@ -20,6 +26,7 @@
   **MIT** 
  
  ## 사용 프레임워크
+  - chromedriver (필수)
   - selenium + bs4
   - tkinter (UI)
   - PyInstaller
