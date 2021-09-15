@@ -26,7 +26,7 @@ UI 이미지
   **MIT** 
  
  ## 사용 프레임워크 + 라이브러리
-  - Python 3.5 이상 + Windows 10 이상
+  - Python 3.9 이상 + Windows 10 이상
   - chromedriver (필수)
   - selenium + bs4
   - tkinter (UI)
